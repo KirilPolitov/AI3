@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 
-st.title("favorite things")
+st.title("shkolo")
 
 if "names" not in st.session_state:
   st.session_state.names = {
